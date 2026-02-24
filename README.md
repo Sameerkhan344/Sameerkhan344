@@ -29,7 +29,7 @@ I enjoy turning complex ideas into clean, user-friendly experiences with a stron
 
 - 🎯 Focused on modern web apps, SaaS platforms & business tools  
 - ⚙️ Tech stack: React, Next.js, Node.js, MongoDB, Express  
-- 🌐 Portfolio: [vercel.app]()  
+- 🌐 Portfolio: https://sameer-portfolio-1l4q.vercel.app/ 
 - 📬 Reach me at: **khansame34@gmail.com**
 
 ---
