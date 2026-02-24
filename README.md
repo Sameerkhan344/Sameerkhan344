@@ -65,7 +65,7 @@ I enjoy turning complex ideas into clean, user-friendly experiences with a stron
   <a href="https://github.com/Sameerkhan344">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://wa.me/917354839960">
+  <a href="https://wa.me/8319006176">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
