@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer | React & Next.js & GSAP | Crafting Modern Web Experiences
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="300" />
+<img src="https://camo.githubusercontent.com/2deac39daa0924a345790ce050107aa19c8c49dbc73aa6fce086b83bc95fe784/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" width="300" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-khan-335097115/">
