@@ -28,7 +28,7 @@ I’m a **Full-Stack Web Developer** focused on building **modern, scalable, and
 I enjoy turning complex ideas into clean, user-friendly experiences with a strong focus on **UI, performance, and maintainable code**.
 
 - 🎯 Focused on modern web apps, SaaS platforms & business tools  
-- ⚙️ <bold>Tech stack</bold>: React, Next.js, Node.js, MongoDB, Express  
+- ⚙️ Tech stack: React, Next.js, Node.js, MongoDB, Express  
 - 🌐 Portfolio: [vercel.app]()  
 - 📬 Reach me at: **khansame34@gmail.com**
 
