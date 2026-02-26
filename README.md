@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/sameer-khan-335097115/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://sameer-portfolio-1l4q.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/Sameerkhan344">
