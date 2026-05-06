@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/sameer-khan-335097115/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://sameer-portfolio-1l4q.vercel.app/">
+  <a href="https://sameer-khan-new-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/Sameerkhan344">
@@ -29,7 +29,7 @@ I enjoy turning complex ideas into clean, user-friendly experiences with a stron
 
 - 🎯 Focused on modern web apps, SaaS platforms & business tools  
 - ⚙️ Tech stack: React, Next.js, Node.js, MongoDB, Express  
-- 🌐 Portfolio: https://sameer-portfolio-1l4q.vercel.app/ 
+- 🌐 Portfolio: https://sameer-khan-new-portfolio.vercel.app/ 
 - 📬 Reach me at: **khansame34@gmail.com**
 
 ---
